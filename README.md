@@ -10,3 +10,7 @@ At the current level of the challenge, only the following elements was showed up
 - The HTML Boilerplate
 - How to Host a website
 
+## Access the website
+
+Use the current link to access the website:
+https://paulinospedro.github.io/HTML-Project3-Portfolio/
